@@ -26,4 +26,4 @@ Ergon Cugler de Moraes Silva, from Brazil, mailto: <a href="contato@ergoncugler.
 
 ### How to Cite it:
 
-**SILVA, Ergon Cugler de Moraes Silva. Web Scraping Extraction of Jair Messias Bolsonaro's Telegram Posts from 2021 to 2022. (feb) 2023. Available at: <a>https://github.com/ergoncugler/bolsonaro-telegram/</a>.**
+**SILVA, Ergon Cugler de Moraes. Web Scraping Extraction of Jair Messias Bolsonaro's Telegram Posts from 2021 to 2022. (feb) 2023. Available at: <a>https://github.com/ergoncugler/bolsonaro-telegram/</a>.**
